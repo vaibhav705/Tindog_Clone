@@ -138,4 +138,7 @@ p{
   .title-image{
     transform: rotate(0);
   }
+  .cta-heading{
+    font-size: 3.7rem;
+  }
 }
